@@ -1,0 +1,11 @@
+body { margin: 40px 0 0; background: #e4e4e4; font-family: Century Gothic,Trebuchet MS,helvetica; }
+h1, h2, h3, h4, h5, h6 { font-weight: normal; }
+a { text-decoration: none; color: #006699; }
+.main { -moz-border-radius: 10px 10px 10px 10px; background: url("/images/shade.jpg") repeat-x scroll center bottom #FFFFFF; border-top: 1px solid #FFFFFF; margin: 0 auto; padding-bottom: 20px; width: 600px; }
+h1,h3 { margin-bottom: 10px; margin-top: 10px; text-align: center; }
+.shareable { -moz-border-radius: 10px 10px 10px 10px; border: 7px dashed #AAAAAA; height: 100px; margin: 20px 15px 10px; width: auto; padding: 10px; }
+.share_ousel { width: 300px; display: inline-block; }
+.imageflow .caption { z-index: 20; }
+.imageflow .slideshow { display: none; }
+.howto { display: inline-block; padding-bottom: 15px; width: 45%; }
+.footer { bottom: 10px; color: #555555; font-size: 80%; position: fixed; right: 10px; }
